@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["test7_spi/__init__.py", "github:mcauser/micropython-mip-test7/spi/spi.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}

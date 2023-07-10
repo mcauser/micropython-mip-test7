@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["test7_i2c/__init__.py", "github:mcauser/micropython-mip-test7/i2c/__init__.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}
